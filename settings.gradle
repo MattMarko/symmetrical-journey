@@ -1,3 +1,2 @@
 include ':app'
-include ':ffapiconsumer'
 rootProject.name = "Fitness Focus Companion App for Android"
